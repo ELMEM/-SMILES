@@ -129,3 +129,5 @@ def split(sm):
     if i == len(sm)-1:
         arr.append(sm[i])
     return ' '.join(arr) 
+
+### quote from: https://github.com/DSPsleeporg/smiles-transformer/blob/master/smiles_transformer/utils.py
